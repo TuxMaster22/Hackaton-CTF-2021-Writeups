@@ -1,6 +1,8 @@
 ﻿Ssh kicked us out, SCP did not work either
 
 Why not sftp.
+![8](https://user-images.githubusercontent.com/78656150/133910297-5771796c-1cbc-4a32-8964-f68a5636e0cf.jpg)
+
 
 found out those files  - found out rc file
 
@@ -21,11 +23,15 @@ Save it and then went back to the SFTP session.
 I uploaded the new rc file inside the old rc file.
 
 Finally!
+
+
 ![5](https://user-images.githubusercontent.com/78656150/133910253-8fbba43a-e007-49b0-9404-43f9b3c8a543.jpg)
 
 what about checking privileges
 
+
 ![6](https://user-images.githubusercontent.com/78656150/133910255-b8cdaa42-e93f-469a-8fef-b27c34cb6ef3.jpg)
+
 
 
 Awesome, as you may see just using sudo and find I found the flag.
